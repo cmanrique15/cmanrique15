@@ -1,7 +1,7 @@
 <h1 align="center">✨ ¡Hola, soy Candy Manrique! ✨</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e5/0b/36/e50b36d1e84b1fcdc48aadb12732b4b2.gif" width="200" alt="muñequita en el computador"/>
+  <img src="girl-9372223_1280.png" width="200"/>
 </p>
 
 ---
