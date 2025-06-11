@@ -8,7 +8,7 @@
 
 ### 💬 Sobre mí
 
-🎓 Soy analista de datos con formación en ingeniería eléctrica.  
+🎓 Soy ingeniería eléctrica con formación en analisis de datos.  
 💡 Me encanta aprender cosas nuevas y aplicar la tecnología para resolver problemas.  
 🎯 Actualmente en transición al mundo del análisis de datos y la inteligencia de negocio.  
 🌍 Busco oportunidades remotas donde pueda crecer y contribuir con mi energía positiva.
