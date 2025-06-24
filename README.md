@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Data Analysis GIF"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Michi programando"/>
 </div>
 
 ---
@@ -19,6 +19,7 @@
 💼 *En transición profesional* hacia el mundo del análisis de datos  
 🌍 *Disponible para trabajo remoto* y colaboraciones internacionales  
 ⚡ *Filosofía: *"Los datos sin contexto son solo números, mi trabajo es convertirlos en decisiones inteligentes"
+😸 *Me encantan los michis*
 
 ---
 
@@ -84,7 +85,7 @@
 ## 🌟 *Lo que me Motiva*
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Michi programando"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Data Analysis GIF"/>
 </div>
 
 💡 *Crear dashboards que cuenten historias*  
