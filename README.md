@@ -1,7 +1,8 @@
-# ✨ ¡Hola, Soy *Candy Manrique*! ✨
+# ✨  ¡Hola, Soy *Candy Manrique*! ✨ 
 ### 📊 Data Analyst | 🔌 Electrical Engineer | 💡 Problem Solver
 
 <div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=✨+Hola,+soy+Candy+Manrique;📊+Transformo+datos+en+decisiones+inteligentes;⚡+De+ingeniera+eléctrica+a+analista+de+datos;📈+Visualizo+historias+con+datos;🐱+Fan+de+los+michis+y+el+análisis" alt="Typing SVG" />
 </div>
 
@@ -18,7 +19,6 @@
 💼 *En transición profesional* hacia el mundo del análisis de datos  
 🌍 *Disponible para trabajo remoto* y colaboraciones internacionales  
 ⚡ *Filosofía: *"Los datos sin contexto son solo números, mi trabajo es convertirlos en decisiones inteligentes"
-😸 Me encantan los michis 
 
 ---
 
@@ -52,42 +52,75 @@
 </div>
 
 ---
+---
 
-## 📚 *Actualmente Aprendiendo*
+## 📊 *Mis Estadísticas de GitHub*
 
-<div align="left">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmanrique15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmanrique15&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-```python
-# 💡 Ruta de aprendizaje en progreso
-
-learning_path = {
-    "📈 Advanced Data Science": [
-        "Machine Learning Algorithms",
-        "Deep Learning Basics"
-    ],
-    "🐍 Python Mastery": [
-        "Advanced Pandas",
-        "Data Engineering",
-        "API Integration"
-    ],
-    "☁️ Cloud Platforms": [
-        "AWS",
-        "Google Cloud Platform",
-        "Azure"
-    ],
-    "🤖 AI & Automation": [
-        "Natural Language Processing",
-        "Computer Vision"
-    ],
-    "📊 Advanced BI": [
-        "DAX Advanced",
-        "M Language",
-        "Custom Visualizations"
-    ]
-}
-
-for skill, topics in learning_path.items():
-    print(f"{skill}: {', '.join(topics)}")
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmanrique15&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
+## 🎯 *Proyectos Destacados*
+
+<div align="center">
+
+| 📊 *Proyecto* | 🔧 *Tecnologías* | 📝 *Descripción* |
+|-----------------|---------------------|---------------------|
+| 🏢 *Dashboard Empresarial* | Power BI SQL Excel | Análisis de KPIs empresariales con visualizaciones interactivas |
+| 📈 *Predicción de Ventas* | Python Scikit-learn Pandas | Modelo ML para forecasting de ventas trimestrales |
+| 🌍 *Análisis Demográfico* | Python Matplotlib Seaborn | Visualización de tendencias poblacionales globales |
+
+</div>
+
+---
+
+## 🌟 *Lo que me Motiva*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Michi programando"/>
+</div>
+
+💡 *Crear dashboards que cuenten historias*  
+📚 *Aprendizaje continuo* - Cada día es una oportunidad de crecer  
+🍜 *Datos + buena comida* = Productividad máxima  
+🎧 *Música + análisis de datos* = Mi zona de flow perfecta  
+🌱 *Impacto positivo* a través de insights basados en datos
+
+---
+
+## 📬 *¡Conectemos!*
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanrique15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cmanrique15&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <h3>💫 "Los mejores insights nacen de la curiosidad y se perfeccionan con la persistencia" 💫</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <h4>¡Gracias por visitar mi perfil! ⭐</h4>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Keep%20Analyzing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+</div>
