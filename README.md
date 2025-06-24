@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=✨+Hola,+soy+Candy+Manrique;📊+Transformo+datos+en+decisiones+inteligentes;⚡+De+ingeniera+eléctrica+a+analista+de+datos;📈+Visualizo+historias+con+datos;🐱+Fan+de+los+michis+y+el+análisis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=✨+Hola,+soy+Candy+Manrique;🐱+Fan+de+los+michis+y+el+análisis;📊+Transformo+datos+en+decisiones+inteligentes;⚡+De+ingeniera+eléctrica+a+analista+de+datos;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ## 🚀 *Sobre Mí*
 
 🎓 *Ingeniera Eléctrica* con pasión por los datos y la tecnología  
-📊 *Analista de Datos* en formación, especializada en Business Intelligence  
+📊 *Analista de Datos* en formación
 💼 *En transición profesional* hacia el mundo del análisis de datos  
 🌍 *Disponible para trabajo remoto* y colaboraciones internacionales  
 ⚡ *Filosofía: *"Los datos sin contexto son solo números, mi trabajo es convertirlos en decisiones inteligentes"
@@ -58,12 +58,9 @@
 ## 📊 *Mis Estadísticas de GitHub*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmanrique15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmanrique15&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmanrique15&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cmanrique15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmanrique15&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -84,10 +81,6 @@
 
 ## 🌟 *Lo que me Motiva*
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Data Analysis GIF"/>
-</div>
-
 💡 *Crear dashboards que cuenten historias*  
 📚 *Aprendizaje continuo* - Cada día es una oportunidad de crecer  
 🍜 *Datos + buena comida* = Productividad máxima  
@@ -103,7 +96,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanrique15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmanrique15)
 
 </div>
 
