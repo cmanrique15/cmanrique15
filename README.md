@@ -55,31 +55,6 @@
 </div>
 
 ---
----
-
-## 📊 *Mis Estadísticas de GitHub*
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cmanrique15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmanrique15&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-## 🎯 *Proyectos Destacados*
-
-<div align="center">
-
-| 📊 *Proyecto* | 🔧 *Tecnologías* | 📝 *Descripción* |
-|-----------------|---------------------|---------------------|
-| 🏢 *Dashboard Empresarial* | Power BI SQL Excel | Análisis de KPIs empresariales con visualizaciones interactivas |
-| 📈 *Predicción de Ventas* | Python Scikit-learn Pandas | Modelo ML para forecasting de ventas trimestrales |
-| 🌍 *Análisis Demográfico* | Python Matplotlib Seaborn | Visualización de tendencias poblacionales globales |
-
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Michi programando"/>
@@ -92,6 +67,18 @@
 🍜 *Datos + buena comida* = Productividad máxima    
 🎧 *Música + análisis de datos* = Mi zona de flow perfecta    
 🌱 *Impacto positivo* a través de insights basados en datos  
+
+---
+
+
+## 📊 *Mis Estadísticas de GitHub*
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=cmanrique15&show_icons=true&bg_color=FFFBF0&title_color=DA70D6&text_color=C71585&icon_color=D87093&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmanrique15&layout=compact&langs_count=7&bg_color=FFFBF0&title_color=DA70D6&text_color=C71585&icon_color=D87093"/>
+</div>
+
 
 ---
 
