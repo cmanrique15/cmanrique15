@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=✨+Hola,+soy+Candy+Manrique;🐱+Fan+de+los+michis+y+el+análisis;📊+Transformo+datos+en+decisiones+inteligentes;⚡+De+ingeniera+eléctrica+a+analista+de+datos;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
-![Perfil](./muñequita.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cmanrique15/cmanrique15/main/muñequita.png" alt="Perfil" width="300"/>
+</p>
+
+
 
 ---
 
