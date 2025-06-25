@@ -14,12 +14,12 @@
 
 ## 🚀 *Sobre Mí*
 
-🎓 *Ingeniera Eléctrica* con pasión por los datos y la tecnología  
-📊 *Analista de Datos* en formación
-💼 *En transición profesional* hacia el mundo del análisis de datos  
-🌍 *Disponible para trabajo remoto* y colaboraciones internacionales  
-⚡ *Filosofía: *"Los datos sin contexto son solo números, mi trabajo es convertirlos en decisiones inteligentes"
-😸 *Me encantan los michis*
+🎓 *Ingeniera Eléctrica* con pasión por los datos y la tecnología    
+📊 *Analista de Datos* en formación  
+💼 *En transición profesional* hacia el mundo del análisis de datos    
+🌍 *Disponible para trabajo remoto* y colaboraciones internacionales    
+⚡ *Filosofía: *"Los datos sin contexto son solo números, mi trabajo es convertirlos en decisiones inteligentes"  
+😸 *Me encantan los michis*  
 
 ---
 
@@ -81,11 +81,11 @@
 
 ## 🌟 *Lo que me Motiva*
 
-💡 *Crear dashboards que cuenten historias*  
-📚 *Aprendizaje continuo* - Cada día es una oportunidad de crecer  
-🍜 *Datos + buena comida* = Productividad máxima  
-🎧 *Música + análisis de datos* = Mi zona de flow perfecta  
-🌱 *Impacto positivo* a través de insights basados en datos
+💡 *Crear dashboards que cuenten historias*    
+📚 *Aprendizaje continuo* - Cada día es una oportunidad de crecer    
+🍜 *Datos + buena comida* = Productividad máxima    
+🎧 *Música + análisis de datos* = Mi zona de flow perfecta    
+🌱 *Impacto positivo* a través de insights basados en datos  
 
 ---
 
@@ -95,7 +95,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanrique15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Discord](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://discord.com/candym_52023)
+[![Discord](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/candym_52023)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmanrique15)
 
 </div>
