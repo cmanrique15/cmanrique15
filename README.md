@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=800&lines=✨+Hola,+soy+Candy+Manrique;🐱+Fan+de+los+michis+y+el+análisis;📊+Transformo+datos+en+decisiones+inteligentes;⚡+De+ingeniera+eléctrica+a+analista+de+datos;📈+Visualizo+historias+con+datos" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Michi programando"/>
-</div>
+![Perfil](./muñequita.png)
 
 ---
 
@@ -78,6 +76,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Michi programando"/>
+</div>
 
 ## 🌟 *Lo que me Motiva*
 
