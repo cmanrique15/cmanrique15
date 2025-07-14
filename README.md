@@ -16,7 +16,7 @@
 
 ## 🚀 *Sobre Mí*
 
-🎓 *Ingeniera Eléctrica* con pasión por los datos y la tecnología    
+🎓 *Profesional* con pasión por los datos y la tecnología    
 📊 *Analista de Datos* en formación  
 💼 *En transición profesional* hacia el mundo del análisis de datos    
 🌍 *Disponible para trabajo remoto* y colaboraciones internacionales    
